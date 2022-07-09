@@ -8,6 +8,10 @@ Used Gson for input.json
 Programmatically added all elements of the fxml
 ===============================================
 
+TO Run the Application: Use the "HelloApplication" found at /src/main/java/com/example/jrcodingchallenge
+/src/main/java/com/example/jrcodingchallenge/HelloAppication.java
+
+
 Button are provided to emulate a vending machine.
 Logs panel is located at the right.
 Transaction states reflected on a panel bordered in red.
